@@ -46,9 +46,6 @@ Public Server IP Address: $PublicIP
 Public Endpoint: $Endpoint
 Internal IP Server Address: 10.10.$Site.254 
 Peers: $Peers
-
-## Instructions
-Check out the latest README.md at https://github/rickjacobo/wireguard-configuration-system
 "@
 
 Write-Output $Readme | Out-File $ConfigurationDirectory/README.txt -Force

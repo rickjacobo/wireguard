@@ -118,4 +118,6 @@ Write-Output $WGSetup | Out-File $ConfigurationDirectory/server/WGSetup.sh -Forc
 }
 
 bash $ConfigurationDirectory/server/WGSetup.sh
+clear
+Write-Host "Client Configurations are located at $ConfigurationDirectory/client"
 cd $ConfigurationDirectory

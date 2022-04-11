@@ -121,3 +121,4 @@ Write-Output $WGSetup | Out-File $ConfigurationDirectory/server/WGSetup.sh -Forc
 }
 
 bash $ConfigurationDirectory/server/WGSetup.sh
+cd $ConfigurationDirectory

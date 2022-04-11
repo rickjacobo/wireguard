@@ -1,4 +1,4 @@
 sudo snap install powershell --classic
 sudo apt-get install wireguard -y
 clear
-pwsh gateway-router.ps1
+pwsh gateway.ps1

@@ -1,4 +1,4 @@
-sudo apt-get udpate
+sudo apt-get update
 sudo snap install powershell --classic
 sudo apt-get install wireguard -y
 clear

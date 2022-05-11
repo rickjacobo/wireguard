@@ -13,7 +13,7 @@ cd wireguard
 sudo bash setup.sh
 ````
 
-## Run Wireguard Configuration
+## Create Wireguard Configurations and Launch Wireguard Server
 * Run configuration and follow wizard promts to create configuration files and launch the wireguard server.
 ````
 pwsh
@@ -21,12 +21,11 @@ pwsh
 ````
 
 ## Client Setup
-### Requirements
 * [Wireguard Applications](https://www.wireguard.com/install)
 
 ### Copy Wireguard configuration files to peer
 * Files are located in ./<subnet>/client
   
 ## Resources
-[Wireguard Applications](https://www.wireguard.com/install/)
-[Wireguard Quick Start][https://www.wireguard.com/quickstart/]
+* [Wireguard Applications](https://www.wireguard.com/install/)
+* [Wireguard Quick Start](https://www.wireguard.com/quickstart/)

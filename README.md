@@ -26,7 +26,7 @@ pwsh
 * [Wireguard Applications](https://www.wireguard.com/install)
 
 ### Copy Wireguard configuration files to peer
-* Files are located in ./<subnet>/client
+* Files are located in the wireguard/<subnet>/client folder
   
 ## Resources
 * [Wireguard Applications](https://www.wireguard.com/install/)

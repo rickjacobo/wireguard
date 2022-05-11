@@ -1,5 +1,5 @@
 # wireguard
-A collection of script to setup a Wireguard server on Ubuntu and create Wireguard server and client configuration files.
+A collection of scripts to setup a Wireguard server on Ubuntu and create Wireguard server and client configuration files.
 
 ## Requirements
 * Ubuntu

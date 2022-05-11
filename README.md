@@ -1,8 +1,8 @@
 # wireguard
 ## Requirements
 * Ubuntu
-* 
-## Setup
+
+## Server Setup
 * Download Wireguard Bits
 ````
 git clone https://github.com/rickjacobo/wireguard
@@ -19,3 +19,14 @@ sudo bash setup.sh
 pwsh
 ./gateway.ps1
 ````
+
+## Client Setup
+### Requirements
+* [Wireguard Applications](https://www.wireguard.com/install)
+
+### Copy Wireguard configuration files to peer
+* Files are located in ./<subnet>/client
+  
+## Resources
+[Wireguard Applications](https://www.wireguard.com/install/)
+[Wireguard Quick Start][https://www.wireguard.com/quickstart/]
